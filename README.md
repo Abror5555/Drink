@@ -5,8 +5,8 @@ To run this project, use Python 3.11 and follow the steps below
 
 pip install pipenv
 
-pipenv install django
-pipenv install djangorestframework
+pipenv install django                                                                                                                
+pipenv install djangorestframework                                                        
 python manage.py makemigrations
 python manage.py migrte
 python manage.py runserver
